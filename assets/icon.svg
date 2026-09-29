@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">CommitPath app icon</title>
+  <desc id="desc">A lime terminal prompt on the CommitPath dark green background.</desc>
+  <rect width="1024" height="1024" fill="#0D2C2B"/>
+  <circle cx="512" cy="512" r="320" fill="#123B3A"/>
+  <path
+    d="M350 385l128 127-128 127M548 647h144"
+    fill="none"
+    stroke="#C6F36A"
+    stroke-width="64"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
